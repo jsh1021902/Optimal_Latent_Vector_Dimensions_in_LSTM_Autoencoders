@@ -1,0 +1,2 @@
+# Optimal_Latent_Vector_Dimensions_in_LSTM_Autoencoders
+Determining the Optimal Latent Vector Dimensions in LSTM Autoencoders for Monitoring Autocorrelated Processes
